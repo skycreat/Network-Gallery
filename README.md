@@ -1,1 +1,1 @@
-# Network-Gallery fo PicGo
+# Network-Gallery for PicGo
